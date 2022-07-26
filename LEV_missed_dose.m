@@ -5,7 +5,7 @@ close all;
 
 % Repeated doses, 400 mg every 12 hours
 % PARAMETERS
-q = 1;     % units: nmol/hr
+q = 0;     % units: nmol/hr
 V = 21.9; % units: L (volume of distribution)
 kA  =  3.83; % units: 1/hr (absorption rate constant)
 kCL = 0.113; %units: 1/hr (clearance rate constant)
